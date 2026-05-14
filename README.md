@@ -1,6 +1,5 @@
 - Hi, I’m @vdhan
 - I’m interested in Blockchain, Internet of Things, Python, Javascript (vanilla)
-- I’m looking to collaborate on blockchain projects
 - How to reach me vdhan@yandex.com
 
 <!---
